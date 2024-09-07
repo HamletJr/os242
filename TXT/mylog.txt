@@ -14,9 +14,10 @@ ZCZC  W00  10  L41  Update TXT/mylog.txt
 ZCZC  W01  10  L03  Pull, add, commit, push on GH
 ZCZC  W01  100 L02  CLASSROOM/ZOOM meetings related (2/9)
 ZCZC  W01  45  L31  Download & install VirtualBox & Debian 12
-ZCZC  W01  15  L41  Update TXT/mylog.txt
-ZCZC  W01  60  L05  Quiz related including studying
-ZCZC  W01  300 L11  Assignment #1 (config Linux, run bash scripts for pop quiz, etc.)
+ZCZC  W01  20  L41  Update TXT/mylog.txt
+ZCZC  W01  80  L05  Quiz related including studying
+ZCZC  W01  300 L11  Assignment #1 (config Linux, run bash scripts for pop quiz, update links, etc.)
 ZCZC  W01  20  L01  Checking SCELE for updates + answering pop quiz
 ZCZC  W01  60  L64  Helping friend to install and setup Debian
 ZCZC  W01  100 L02  CLASSROOM/ZOOM meetings related (4/9)
+ZCZC  W01  60  L06  GSGS about OS topics, learning basic Linux commands
