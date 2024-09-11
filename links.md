@@ -17,3 +17,11 @@ A Stack Overflow thread about the differences between the 3 different tools in L
 5. **[Difference Between grep, sed, and awk](https://www.baeldung.com/linux/grep-sed-awk-differences)**<br>
 Another article about the distinct differences between grep, sed, and awk. Helpful to know the use cases for each tool.
 
+6. **[CS50 Lectures 2020](https://www.youtube.com/playlist?list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8)**<br>
+An introductory playlist on YouTube about the basics of programming, including the C language. My favorite course on programming, really intuitive and easy to understand.
+
+7. **[CS50's Introduction to Cybersecurity](https://www.youtube.com/playlist?list=PLhQjrBD2T383Cqo5I1oRrbC1EKRAKGKUE)**<br>
+An introductory playlist on YouTube about basic cybersecurity topics. Fun and easy to understand.
+
+8. **[Vulnerabilities | OWASP Foundation](https://owasp.org/www-community/vulnerabilities/)**<br>
+A comprehensive list of common vulnerabilities and exploits. Useful to know the basics of some well-known attack techniques and some ways to anticipate and prevent them.
