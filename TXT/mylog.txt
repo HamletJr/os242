@@ -25,10 +25,10 @@ ZCZC  W01  60  L06  GSGS about OS topics, learning basic Linux commands
 ZCZC  W02  10  L03  Pull, add, commit, push on GH 
 ZCZC  W02  100 L02  CLASSROOM/ZOOM meetings related (9/9)
 ZCZC  W02  20  L41  Update TXT/mylog.txt
-ZCZC  W02  80  L05  Quiz related including studying
-ZCZC  W02  300 L11  Assignment #2 (creating GPG keys, running and checking scripts, etc.)
-ZCZC  W02  15  L01  Checking SCELE for updates + answering pop quiz
+ZCZC  W02  60  L05  Quiz related including studying
+ZCZC  W02  330 L11  Assignment #2 (creating GPG keys, running and checking scripts, etc.)
+ZCZC  W02  20  L01  Checking SCELE for updates + answering pop quiz
 ZCZC  W02  100 L02  CLASSROOM/ZOOM meetings related (11/9)
 ZCZC  W02  10  L42  Creating mypubkey.txt
-ZCZC  W02  15  L43  Reviewing links for myrank.txt
+ZCZC  W02  20  L43  Reviewing links for myrank.txt
 ZCZC  W02  60  L06  GSGS about security topics, also finding useful links
