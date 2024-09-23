@@ -25,3 +25,13 @@ An introductory playlist on YouTube about basic cybersecurity topics. Fun and ea
 
 8. **[Vulnerabilities | OWASP Foundation](https://owasp.org/www-community/vulnerabilities/)**<br>
 A comprehensive list of common vulnerabilities and exploits. Useful to know the basics of some well-known attack techniques and some ways to anticipate and prevent them.
+ 
+9. **[What Is NTFS and What Does It Do?](https://jotelulu.com/en-gb/blog/what-is-ntfs/)**<br>
+A brief article about the NTFS file system. Describes the advantages and features that NTFS provides over other file systems.
+
+10. **[Comparing NTFS and FAT32 File Systems: Features, Pros and Cons](https://superops.com/ntfs-vs-fat32)**<br>
+An article about two of the most popular file systems, FAT32 and NTS. Explains each file system briefly, then compares each one based on their features and use cases.
+
+11. **[Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4)**<br>
+A short video about directories in Linux. Explains the types of directories in Linux and what each directory is used for.
+
