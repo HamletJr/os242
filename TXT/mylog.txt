@@ -41,3 +41,12 @@ ZCZC  W03  20  L01  Checking SCELE for updates + answering pop quiz
 ZCZC  W03  100 L02  CLASSROOM/ZOOM meetings related (24/9)
 ZCZC  W03  60  L06  GSGS about filesystems and FUSE in Linux, also finding useful links
 ZCZC  W03  30  L05  Quiz related including studying
+
+ZCZC  W04  10  L43  Reviewing links for myrank.txt
+ZCZC  W04  10  L03  Pull, add, commit, push on GH
+ZCZC  W04  100 L02  CLASSROOM/ZOOM meetings related (25/9)
+ZCZC  W04  120 L11  Assignment #4 (Compiling TLPI, running and checking scripts, doing pop quiz, etc.)
+ZCZC  W04  20  L01  Checking SCELE for updates + answering pop quiz
+ZCZC  W04  100 L02  CLASSROOM/ZOOM meetings related (1/10)
+ZCZC  W04  90  L06  GSGS about virtual memory, also finding useful links
+ZCZC  W04  60  L05  Quiz related including studying

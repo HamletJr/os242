@@ -35,3 +35,11 @@ An article about two of the most popular file systems, FAT32 and NTS. Explains e
 11. **[Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4)**<br>
 A short video about directories in Linux. Explains the types of directories in Linux and what each directory is used for.
 
+12. **[Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)**<br>
+An article about virtual memory in OSes. Good introduction on the topic.
+
+13. **[Difference Between Paging and Segmentation](https://www.geeksforgeeks.org/difference-between-paging-and-segmentation/)**<br>
+An article about paging and segmentation. Explains the difference between the two fundamental topics.
+
+14. **[16.2.2 Basics of Virtual Memory](https://www.youtube.com/watch?v=8yO2FBBfaB0)**<br>
+A video from MIT about the basics of virtual memory. Gives a visual explanation as to the differences between physical and virtual memory.
