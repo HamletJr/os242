@@ -43,3 +43,12 @@ An article about paging and segmentation. Explains the difference between the tw
 
 14. **[16.2.2 Basics of Virtual Memory](https://www.youtube.com/watch?v=8yO2FBBfaB0)**<br>
 A video from MIT about the basics of virtual memory. Gives a visual explanation as to the differences between physical and virtual memory.
+
+15. **[Logical and Physical Address in Operating System](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/)**<br>
+An article about the differences between logical and physical addresses in OSes. Also explains how it is done in the MMU (Memory Management Unit).
+
+16. **[But, what is Virtual Memory?](https://www.youtube.com/watch?v=A9WLYbE0p-I)**<br>
+A video on YouTube about virtual memory, including paging. Gives good intuitive explanation on the topic.
+
+17. **[Page Replacement Algorithms in Operating Systems](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/)**<br>
+An article on various page replacement algorithms like FIFO, LRU, and more. Explains the differences between the algorithms and how each one works with examples.
