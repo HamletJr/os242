@@ -52,3 +52,13 @@ A video on YouTube about virtual memory, including paging. Gives good intuitive 
 
 17. **[Page Replacement Algorithms in Operating Systems](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/)**<br>
 An article on various page replacement algorithms like FIFO, LRU, and more. Explains the differences between the algorithms and how each one works with examples.
+
+18. **[Operating System - Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm)**<br>
+An article on processes in operating systems. Explains important concepts like process states and the process control block (PCB).
+
+19. **[Thread in Operating System](https://www.geeksforgeeks.org/thread-in-operating-system/)**<br>
+An article on threads in operating systems. Explains the difference between threads and processes, and also touches on multi-threading.
+
+20. **[Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)**<br>
+An article on process synchronization in operating systems. Explains race conditions and also how to resolve them.
+
