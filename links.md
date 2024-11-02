@@ -62,3 +62,12 @@ An article on threads in operating systems. Explains the difference between thre
 20. **[Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)**<br>
 An article on process synchronization in operating systems. Explains race conditions and also how to resolve them.
 
+21. **[Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y)**<br>
+A longer video on YouTube on process synchronization. Gives an in-depth explanation of cooperating processes and race conditions.
+
+22. **[Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)**<br>
+An article on deadlocks in operating systems. Explains how they arise and how they can be prevented.
+
+23. **[Deadlock in Operating System | GeeksforGeeks](https://www.youtube.com/watch?v=onkWXaXAgbY)**<br>
+A short video on deadlocks. A visual version of the above for those who might need it.
+
