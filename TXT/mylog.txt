@@ -73,6 +73,5 @@ ZCZC  W07  10  L03  Pull, add, commit, push on GH
 ZCZC  W07  100 L02  CLASSROOM/ZOOM meetings related (30/10)
 ZCZC  W07  150 L17  Assignment #7 (Running and checking scripts, doing pop quiz, etc.)
 ZCZC  W07  20  L01  Checking SCELE for updates + answering pop quiz
-ZCZC  W07  100 L02  CLASSROOM/ZOOM meetings related (4/11)
 ZCZC  W07  60  L06  GSGS about synchronization, also finding useful links
 ZCZC  W07  75  L05  Quiz related including studying
