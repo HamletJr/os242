@@ -71,3 +71,12 @@ An article on deadlocks in operating systems. Explains how they arise and how th
 23. **[Deadlock in Operating System | GeeksforGeeks](https://www.youtube.com/watch?v=onkWXaXAgbY)**<br>
 A short video on deadlocks. A visual version of the above for those who might need it.
 
+24. **[CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)**<br>
+An article on scheduling processes in operating systems. Explains several types of scheduling algorithms used in OSes, such as round robin, shortest job first (SJF), longest job first (LJF), and more.
+
+25. **[Introduction to CPU Scheduling](https://www.youtube.com/watch?v=EWkQl0n0w5M)**<br>
+A short video on the basics of scheduling. Provides some background and motivations for why scheduling is important in operating systems.
+
+26. **[Operating System — Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)**<br>
+An extensive playlist on operating systems! Covers a ton of important concepts and topics from Week 1 to Week 8.
+
