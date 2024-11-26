@@ -80,3 +80,6 @@ A short video on the basics of scheduling. Provides some background and motivati
 26. **[Operating System — Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)**<br>
 An extensive playlist on operating systems! Covers a ton of important concepts and topics from Week 1 to Week 8.
 
+27. **[LFS 12.2](https://www.linuxfromscratch.org/lfs/view/12.2/)**<br>
+Guide to making Linux from Scratch. 12.2 is the version used for OS242.
+
